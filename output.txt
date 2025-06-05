@@ -1,0 +1,16 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is AE74-F12D
+
+ Directory of C:\Users\pawar\git\repository\learning-java
+
+05-06-2025  16:55    <DIR>          .
+03-06-2025  01:10    <DIR>          ..
+01-06-2025  21:49             2,358 .classpath
+01-06-2025  21:49               565 .project
+01-06-2025  21:49    <DIR>          .settings
+05-06-2025  16:55                 0 output.txt
+01-06-2025  21:49               420 pom.xml
+01-06-2025  21:49    <DIR>          src
+01-06-2025  21:49    <DIR>          target
+               4 File(s)          3,343 bytes
+               5 Dir(s)  431,235,653,632 bytes free
